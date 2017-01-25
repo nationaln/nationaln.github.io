@@ -12,4 +12,4 @@ You can @mention a GitHub username to generate a link to their profile. The resu
 
 ### Support or Contact
 Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-![Image of logo](http://tinypic.com/m/jqg8dg/1)
+![Image of logo](http://nationaln.github.io/LOGO 2.png)
