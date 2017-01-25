@@ -12,4 +12,4 @@ You can @mention a GitHub username to generate a link to their profile. The resu
 
 ### Support or Contact
 Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-![Image of logo](<a href="http://www.freeimagehosting.net/commercial-photography/"><img src="http://i.imgur.com/lmxT5c6.png" alt="commercial photography locations"></a>)
+![Image of logo](http://i63.tinypic.com/2jcvhqf.png)
