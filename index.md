@@ -1,111 +1,15 @@
-<html>
+### Welcome to GitHub Pages.
+This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
 
-<head>
-  <meta charset="utf-8">
-  <title>NATIONAL NTERTAINMENT</title>
-  <meta name="generator" content="Google Web Designer 1.7.0.1114">
-  <style type="text/css" id="gwd-text-style">
-    p {
-      margin: 0px;
-    }
-    h1 {
-      margin: 0px;
-    }
-    h2 {
-      margin: 0px;
-    }
-    h3 {
-      margin: 0px;
-    }
-  </style>
-  <style type="text/css">
-    html, body {
-      width: 100%;
-      height: 100%;
-      margin: 0px;
-    }
-    body {
-      transform: perspective(1400px) matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
-      transform-style: preserve-3d;
-      background-color: transparent;
-    }
-    .gwd-img-q3id {
-      position: absolute;
-      width: 788px;
-      height: 521px;
-      left: 493px;
-      top: 102px;
-    }
-    .gwd-span-18jn {
-      position: absolute;
-      font-size: 72px;
-      width: 1014px;
-      height: 177px;
-      transform-origin: 627px 265.738px 0px;
-      font-weight: normal;
-      left: 260px;
-      top: -4px;
-      font-family: "Times New Roman";
-    }
-    .gwd-span-8shp {
-      position: absolute;
-      font-weight: bold;
-      font-family: "Times New Roman";
-      left: 371px;
-      top: 623px;
-    }
-    .gwd-canvas-ortk {
-      position: absolute;
-      width: 896px;
-      height: 1px;
-      transform-style: preserve-3d;
-      left: 269px;
-      top: 78px;
-    }
-    .gwd-span-a1j9 {
-      position: absolute;
-      font-weight: bold;
-      left: 473px;
-      top: 623px;
-    }
-    .gwd-span-1sfx {
-      position: absolute;
-      left: 473px;
-      top: 623px;
-      font-weight: bold;
-      text-align: left;
-      transform-origin: 65.25px 11px 0px;
-      width: 20px;
-      height: 1px;
-    }
-    .gwd-span-1u68 {
-      position: absolute;
-      left: 628px;
-      top: 623px;
-      font-weight: bold;
-    }
-    .gwd-span-1hlh {
-      position: absolute;
-      left: 759px;
-      top: 623px;
-      font-weight: bold;
-    }
-    .gwd-span-147s {
-      position: absolute;
-      left: 963px;
-      top: 623px;
-      font-weight: bold;
-    }
-  </style><script data-source="googbase_min.js" data-version="3" data-exports-type="googbase" src="googbase_min.js"></script><script data-source="gwd_webcomponents_min.js" data-version="5" data-exports-type="gwd_webcomponents" src="gwd_webcomponents_min.js"></script>
-  <script
-  data-source="gwdline_min.js" data-version="3" data-exports-type="gwd-line" src="gwdline_min.js"></script>
-</head>
+### Designer Templates
+We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
 
-<body class="htmlNoPages">
-  <img src="assets/LOGO.jpg" class="gwd-img-q3id">
-  <h1 class="gwd-span-18jn">NATIONAL NTERTAINMENT</h1><span class="gwd-span-8shp">HOME&nbsp;</span>
-  <canvas is="gwd-line" width="896" height="1" class="gwd-canvas-ortk" x-adj="0" y-adj="0" slope="horizontal" x-off="0" y-off="0" stroke-width="1" stroke-color="[0,0,0,1]" stroke-style="Solid"></canvas>
-  <span class="gwd-span-a1j9">ENTERTAINERS</span><span class="gwd-span-1sfx"><br></span><span class="gwd-span-1u68">EMPLOYEES</span><span class="gwd-span-1hlh">ACTIVITY DIRECTORS</span><span class="gwd-span-147s">DJ/KARAOKE &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>
-</body>
+### Creating pages manually
+If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
 
-</html>
+### Authors and Contributors
+You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+
+### Support or Contact
+Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image of logo](http://i63.tinypic.com/2jcvhqf.png)
